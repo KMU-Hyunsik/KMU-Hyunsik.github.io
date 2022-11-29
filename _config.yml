@@ -44,7 +44,7 @@ footer:
   has_social: true
 
 # Plugins
-plugins:a
+plugins:
   - jekyll-paginate
 
 # http://jekyllrb.com/docs/pagination/
