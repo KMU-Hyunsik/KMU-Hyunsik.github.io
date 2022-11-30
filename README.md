@@ -37,18 +37,18 @@
 
 ## Modify config
 
- 블로그에 MongoDB 포스트가 보이지 않는 오류 해결 시도 3회
+- 블로그에 MongoDB 포스트가 보이지 않는 오류 해결 시도 3회
 - 커밋 후 푸시 작업이 제대로 이루어지지않은 줄 알고 한번 더 다시 커밋 후 푸시
 
 ## Modify Config and MonogoDB.md
 
- 블로그에 MongoDB 포스트가 보이지 않는 오류 해결 시도 4회
+- 블로그에 MongoDB 포스트가 보이지 않는 오류 해결 시도 4회
 - _config.yml에 futrue: true 추가
 - _posts/2022-11-29-MonogoDB.md에 published: true 추가
 
 ## Modify Config and Monogo.db
 
- 블로그에 MongoDB 포스트가 보이지 않는 오류 해결 시도 5회
+- 블로그에 MongoDB 포스트가 보이지 않는 오류 해결 시도 5회
 - _config.yml에 timezone: Asia/Seoul 추가
 - _posts/2022-11-29-MonogoDB.md에 date:	2022-11-29 14:26:02 +0900 값 변경
 - 파일의 인코딩의 문제인걸 발견해서 _posts/2022-11-29-MonogoDB.md의 인코딩을 UTF-8로 인코딩 변경
@@ -61,8 +61,7 @@
 
 ## Update Disqus
 
- -_config.yml에 
-
+ -_config.yml에
 ```html
 # Custom vars
 version : 1.1.0
@@ -72,6 +71,7 @@ comment:
     disqus:
         shortname:  "kmu-hyunsik"
 ```
+내용 추가
 - _layouts/post.html 내용 변경
 - _posts/2022-11-28-MarkDown.md에 comments: true 추가
 - _posts/2022-11-29-MonogoDB.md comments: true 추가
