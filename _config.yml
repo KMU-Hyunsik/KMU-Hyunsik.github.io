@@ -42,7 +42,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "20223084 B H S [My git](https://github.com/KMU-Hyunsik/KMU-Hyunsik.github.io)."
   has_social: true
 
 # Plugins
@@ -72,4 +72,4 @@ comment:
     provider:       "disqus"
     disqus:
         comments: true
-        shortname:  "kmu-hyunsik
+        shortname:  "kmu-hyunsik"
